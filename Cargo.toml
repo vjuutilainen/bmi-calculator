@@ -1,0 +1,6 @@
+[package]
+name = "bmi-calculator"
+version = "0.1.0"
+authors = ["Ville Juutilainen <vjuutilainen@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,3 @@
+# BMI calculator
+
+Learning Rust.
